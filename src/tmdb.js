@@ -1,4 +1,4 @@
-const API_KEY ='numero dA cHAVE DE API criada';
+const API_KEY ='Colocar o numero da chave API criada';
 const API_BASE = 'https://api.themoviedb.org/3';
 
 /*
